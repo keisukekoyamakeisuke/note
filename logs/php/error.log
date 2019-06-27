@@ -1,0 +1,169 @@
+[27-Jun-2019 15:14:53 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in phar:///usr/local/bin/wp/vendor/wp-cli/wp-cli/php/WP_CLI/SynopsisValidator.php on line 92
+[27-Jun-2019 15:48:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_head() in /app/public/wp-content/themes/template_noteTest/index.php:10
+Stack trace:
+#0 {main}
+  thrown in /app/public/wp-content/themes/template_noteTest/index.php on line 10
+[27-Jun-2019 15:59:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_head() in /app/public/index.php:10
+Stack trace:
+#0 {main}
+  thrown in /app/public/index.php on line 10
+[27-Jun-2019 15:59:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_head() in /app/public/index.php:10
+Stack trace:
+#0 {main}
+  thrown in /app/public/index.php on line 10
+[27-Jun-2019 15:59:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_head() in /app/public/index.php:10
+Stack trace:
+#0 {main}
+  thrown in /app/public/index.php on line 10
+[27-Jun-2019 15:59:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_head() in /app/public/index.php:10
+Stack trace:
+#0 {main}
+  thrown in /app/public/index.php on line 10
+[27-Jun-2019 16:00:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_head() in /app/public/index.php:10
+Stack trace:
+#0 {main}
+  thrown in /app/public/index.php on line 10
+[27-Jun-2019 16:00:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_head() in /app/public/index.php:10
+Stack trace:
+#0 {main}
+  thrown in /app/public/index.php on line 10
+[27-Jun-2019 16:00:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_head() in /app/public/index.php:10
+Stack trace:
+#0 {main}
+  thrown in /app/public/index.php on line 10
+[27-Jun-2019 16:00:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_head() in /app/public/index.php:10
+Stack trace:
+#0 {main}
+  thrown in /app/public/index.php on line 10
+[27-Jun-2019 16:01:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_head() in /app/public/index.php:10
+Stack trace:
+#0 {main}
+  thrown in /app/public/index.php on line 10
+[27-Jun-2019 16:01:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_head() in /app/public/index.php:10
+Stack trace:
+#0 {main}
+  thrown in /app/public/index.php on line 10
+[27-Jun-2019 16:01:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_head() in /app/public/index.php:10
+Stack trace:
+#0 {main}
+  thrown in /app/public/index.php on line 10
+[27-Jun-2019 16:01:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_head() in /app/public/index.php:10
+Stack trace:
+#0 {main}
+  thrown in /app/public/index.php on line 10
+[27-Jun-2019 16:01:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_head() in /app/public/index.php:10
+Stack trace:
+#0 {main}
+  thrown in /app/public/index.php on line 10
+[27-Jun-2019 16:01:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_head() in /app/public/index.php:10
+Stack trace:
+#0 {main}
+  thrown in /app/public/index.php on line 10
+[27-Jun-2019 16:01:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_head() in /app/public/index.php:10
+Stack trace:
+#0 {main}
+  thrown in /app/public/index.php on line 10
+[27-Jun-2019 16:01:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_head() in /app/public/index.php:10
+Stack trace:
+#0 {main}
+  thrown in /app/public/index.php on line 10
+[27-Jun-2019 16:04:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_head() in /app/public/wp-content/themes/template_noteTest/index.php:10
+Stack trace:
+#0 {main}
+  thrown in /app/public/wp-content/themes/template_noteTest/index.php on line 10
+[27-Jun-2019 16:04:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_head() in /app/public/wp-content/themes/template_noteTest/index.php:10
+Stack trace:
+#0 {main}
+  thrown in /app/public/wp-content/themes/template_noteTest/index.php on line 10
+[27-Jun-2019 16:06:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_head() in /app/public/wp-content/themes/template_noteTest/index.php:10
+Stack trace:
+#0 {main}
+  thrown in /app/public/wp-content/themes/template_noteTest/index.php on line 10
+[27-Jun-2019 16:06:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_head() in /app/public/wp-content/themes/template_noteTest/index.php:10
+Stack trace:
+#0 {main}
+  thrown in /app/public/wp-content/themes/template_noteTest/index.php on line 10
+[27-Jun-2019 16:06:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_head() in /app/public/wp-content/themes/template_noteTest/index.php:10
+Stack trace:
+#0 {main}
+  thrown in /app/public/wp-content/themes/template_noteTest/index.php on line 10
+[27-Jun-2019 16:07:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_head() in /app/public/wp-content/themes/template_noteTest/index.php:10
+Stack trace:
+#0 {main}
+  thrown in /app/public/wp-content/themes/template_noteTest/index.php on line 10
+[27-Jun-2019 16:07:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_head() in /app/public/wp-content/themes/template_noteTest/index.php:10
+Stack trace:
+#0 {main}
+  thrown in /app/public/wp-content/themes/template_noteTest/index.php on line 10
+[27-Jun-2019 16:07:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_head() in /app/public/wp-content/themes/template_noteTest/index.php:10
+Stack trace:
+#0 {main}
+  thrown in /app/public/wp-content/themes/template_noteTest/index.php on line 10
+[27-Jun-2019 16:07:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_head() in /app/public/wp-content/themes/template_noteTest/index.php:10
+Stack trace:
+#0 {main}
+  thrown in /app/public/wp-content/themes/template_noteTest/index.php on line 10
+[27-Jun-2019 16:15:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_head() in /app/public/wp-content/themes/template_noteTest/index.php:10
+Stack trace:
+#0 {main}
+  thrown in /app/public/wp-content/themes/template_noteTest/index.php on line 10
+[27-Jun-2019 16:15:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_head() in /app/public/wp-content/themes/template_noteTest/index.php:10
+Stack trace:
+#0 {main}
+  thrown in /app/public/wp-content/themes/template_noteTest/index.php on line 10
+[27-Jun-2019 16:15:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_head() in /app/public/wp-content/themes/template_noteTest/index.php:10
+Stack trace:
+#0 {main}
+  thrown in /app/public/wp-content/themes/template_noteTest/index.php on line 10
+[27-Jun-2019 16:15:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_head() in /app/public/wp-content/themes/template_noteTest/index.php:10
+Stack trace:
+#0 {main}
+  thrown in /app/public/wp-content/themes/template_noteTest/index.php on line 10
+[27-Jun-2019 16:15:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_head() in /app/public/wp-content/themes/template_noteTest/index.php:10
+Stack trace:
+#0 {main}
+  thrown in /app/public/wp-content/themes/template_noteTest/index.php on line 10
+[27-Jun-2019 16:15:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_head() in /app/public/wp-content/themes/template_noteTest/index.php:10
+Stack trace:
+#0 {main}
+  thrown in /app/public/wp-content/themes/template_noteTest/index.php on line 10
+[27-Jun-2019 16:16:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_head() in /app/public/wp-content/themes/template_noteTest/index.php:10
+Stack trace:
+#0 {main}
+  thrown in /app/public/wp-content/themes/template_noteTest/index.php on line 10
+[27-Jun-2019 16:16:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_head() in /app/public/wp-content/themes/template_noteTest/index.php:10
+Stack trace:
+#0 {main}
+  thrown in /app/public/wp-content/themes/template_noteTest/index.php on line 10
+[27-Jun-2019 16:16:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_head() in /app/public/wp-content/themes/template_noteTest/index.php:10
+Stack trace:
+#0 {main}
+  thrown in /app/public/wp-content/themes/template_noteTest/index.php on line 10
+[27-Jun-2019 16:17:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_head() in /app/public/wp-content/themes/template_noteTest/index.php:10
+Stack trace:
+#0 {main}
+  thrown in /app/public/wp-content/themes/template_noteTest/index.php on line 10
+[27-Jun-2019 16:17:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_head() in /app/public/wp-content/themes/template_noteTest/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /app/public/wp-content/themes/template_noteTest/index.php on line 8
+[27-Jun-2019 16:17:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_head() in /app/public/wp-content/themes/template_noteTest/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /app/public/wp-content/themes/template_noteTest/index.php on line 8
+[27-Jun-2019 16:17:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_head() in /app/public/wp-content/themes/template_noteTest/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /app/public/wp-content/themes/template_noteTest/index.php on line 8
+[27-Jun-2019 16:17:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_head() in /app/public/wp-content/themes/template_noteTest/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /app/public/wp-content/themes/template_noteTest/index.php on line 8
+[27-Jun-2019 16:20:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_footer() in /app/public/wp-content/themes/template_noteTest/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /app/public/wp-content/themes/template_noteTest/index.php on line 16
+[27-Jun-2019 16:23:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_footer() in /app/public/wp-content/themes/template_noteTest/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /app/public/wp-content/themes/template_noteTest/index.php on line 16
