@@ -4,7 +4,7 @@ Theme Name: note
 
 
 *{
-    font-family: san-selif;
+    font-family: serif;
     margin: 0;
     padding: 0;
 }
@@ -46,13 +46,18 @@ Theme Name: note
     color: #888; 
 }
 
-
 .paragraph-s {
     font-size: 12px;
     font-weight: bold;
     line-height: 1.5;
     color: #999; 
 }
+
+.wp-block-image img{
+    filter: invert(1);
+    margin: 8px 0 0;
+}
+
 
 
 
