@@ -1,0 +1,53 @@
+/*
+Theme Name: note
+*/
+
+
+*{
+    font-family: san-selif;
+    margin: 0;
+    padding: 0;
+}
+
+.area {
+    margin: 48px;
+    background-color: #fff;
+}
+
+.box {
+    width: 60%;
+    margin: 0 0 24px;
+}
+
+.title-l {
+    font-size: 80px;
+    font-weight: bold;
+    line-hight: 1;
+    color: #ff2700;
+    margin-left: -4px;
+}
+
+.title-m {
+    font-size: 24px;
+    font-weight: bold;
+    line-hight: 1;
+    color: #444;
+}
+
+.paragraph-m {
+    font-size: 16px;
+    font-weight: bold;
+    line-hight: 2;
+    color: #888; 
+}
+
+
+.paragraph-s {
+    font-size: 12px;
+    font-weight: bold;
+    line-hight: 2;
+    color: #999; 
+}
+
+
+
