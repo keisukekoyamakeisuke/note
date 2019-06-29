@@ -16,28 +16,33 @@ Theme Name: note
 
 .box {
     width: 60%;
+    margin: 0 0 32px;
+}
+
+.block {
     margin: 0 0 24px;
 }
 
 .title-l {
     font-size: 80px;
     font-weight: bold;
-    line-hight: 1;
+    line-height: 1;
     color: #ff2700;
-    margin-left: -4px;
+    margin: 0 0 16px -4px;
 }
 
 .title-m {
-    font-size: 24px;
+    font-size: 20px;
     font-weight: bold;
-    line-hight: 1;
+    line-height: 1.25;
     color: #444;
+    margin: 0 0 4px;
 }
 
 .paragraph-m {
     font-size: 16px;
     font-weight: bold;
-    line-hight: 2;
+    line-height: 1.5;
     color: #888; 
 }
 
@@ -45,7 +50,7 @@ Theme Name: note
 .paragraph-s {
     font-size: 12px;
     font-weight: bold;
-    line-hight: 2;
+    line-height: 1.5;
     color: #999; 
 }
 

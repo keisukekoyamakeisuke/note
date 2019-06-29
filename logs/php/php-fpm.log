@@ -34,3 +34,7 @@
 [29-Jun-2019 03:55:00] NOTICE: exiting, bye-bye!
 [29-Jun-2019 03:58:04] NOTICE: fpm is running, pid 55
 [29-Jun-2019 03:58:04] NOTICE: ready to handle connections
+[29-Jun-2019 05:36:45] NOTICE: Terminating ...
+[29-Jun-2019 05:36:45] NOTICE: exiting, bye-bye!
+[29-Jun-2019 05:36:52] NOTICE: fpm is running, pid 54
+[29-Jun-2019 05:36:52] NOTICE: ready to handle connections

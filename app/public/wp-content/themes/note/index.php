@@ -10,9 +10,13 @@
             <p class="paragraph-m"><?php bloginfo('description'); ?></p> 
         </div>
         <div class="box">
-                <h2 class="title-m"><?php the_title(); ?></h2>
-                <p class="paragraph-s"><?php the_content(); ?></p> 
-            </div>
+            <?php if ( have_posts() ) : while ( have_posts() ) : the_post(); ?>
+                <div class="block">
+                    <h2 class="title-m"><?php the_title(); ?></h2>
+                    <div class="paragraph-s"><?php the_content(); ?></div> 
+                </div>
+            <?php endwhile; endif; ?>
+        </div>
     </section>
 <?php wp_footer(); ?>
 </body>
