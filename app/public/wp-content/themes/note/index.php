@@ -16,6 +16,7 @@
                     <div class="paragraph-s"><?php the_content(); ?></div> 
                 </div>
             <?php endwhile; endif; ?>
+            <?php echo get_permalink(); ?>
         </div>
     </section>
 <?php wp_footer(); ?>

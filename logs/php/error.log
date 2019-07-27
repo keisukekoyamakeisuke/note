@@ -209,3 +209,10 @@ Stack trace:
 #3 {main}
   thrown in /app/public/wp-content/themes/note/index.php on line 14
 [29-Jun-2019 05:47:05 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /app/public/wp-includes/post-template.php on line 310
+[02-Jul-2019 14:59:37 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /app/public/wp-content/plugins/custom-field-template/custom-field-template.php on line 1977
+[02-Jul-2019 14:59:37 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /app/public/wp-content/plugins/custom-field-template/custom-field-template.php on line 2070
+[04-Jul-2019 15:15:01 UTC] PHP Warning:  予期しないエラーが発生しました。WordPress.org かこのサーバーの設定に何か問題があるかもしれません。問題が続くようであれば、<a href="https://ja.wordpress.org/support/">サポートフォーラム</a>を参照してみてください。 (WordPress は WordPress.org との安全な接続を確立できませんでした。サーバー管理者にご連絡ください) in /app/public/wp-includes/update.php on line 160
+[04-Jul-2019 15:15:01 UTC] PHP Warning:  予期しないエラーが発生しました。WordPress.org かこのサーバーの設定に何か問題があるかもしれません。問題が続くようであれば、<a href="https://ja.wordpress.org/support/">サポートフォーラム</a>を参照してみてください。 (WordPress は WordPress.org との安全な接続を確立できませんでした。サーバー管理者にご連絡ください) in /app/public/wp-includes/update.php on line 384
+[04-Jul-2019 15:15:01 UTC] PHP Warning:  予期しないエラーが発生しました。WordPress.org かこのサーバーの設定に何か問題があるかもしれません。問題が続くようであれば、<a href="https://ja.wordpress.org/support/">サポートフォーラム</a>を参照してみてください。 (WordPress は WordPress.org との安全な接続を確立できませんでした。サーバー管理者にご連絡ください) in /app/public/wp-includes/update.php on line 569
+[04-Jul-2019 15:30:33 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /app/public/wp-content/plugins/custom-field-template/custom-field-template.php on line 1977
+[04-Jul-2019 15:30:33 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /app/public/wp-content/plugins/custom-field-template/custom-field-template.php on line 2070

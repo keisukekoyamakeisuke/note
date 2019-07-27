@@ -303,3 +303,214 @@
 2019-06-29 05:36:53,570 INFO success: MailHog entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
 2019-06-29 05:36:53,570 INFO success: mysql entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
 2019-06-29 05:36:53,570 INFO success: varnish-themes-watcher entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-07-02 14:48:20,437 INFO reaped unknown pid 21040
+2019-07-02 14:48:20,487 INFO reaped unknown pid 21044
+2019-07-02 14:48:20,498 INFO reaped unknown pid 21047
+2019-07-02 14:48:20,508 INFO reaped unknown pid 21050
+2019-07-02 14:48:20,527 INFO reaped unknown pid 21053
+2019-07-02 14:48:20,545 INFO reaped unknown pid 21056
+2019-07-02 14:48:20,557 INFO reaped unknown pid 21059
+2019-07-02 14:48:20,585 INFO reaped unknown pid 21062
+2019-07-02 14:48:20,599 INFO reaped unknown pid 21065
+2019-07-02 14:48:20,612 INFO reaped unknown pid 21068
+2019-07-02 14:48:20,636 INFO reaped unknown pid 21071
+2019-07-02 14:48:20,649 INFO reaped unknown pid 21074
+2019-07-02 14:48:20,669 INFO reaped unknown pid 21077
+2019-07-02 14:48:20,703 INFO reaped unknown pid 21080
+2019-07-02 14:48:20,727 INFO reaped unknown pid 21083
+2019-07-02 14:48:20,749 INFO reaped unknown pid 21086
+2019-07-02 14:48:20,776 INFO reaped unknown pid 21089
+2019-07-02 14:48:20,799 INFO reaped unknown pid 21092
+2019-07-02 14:48:20,822 INFO reaped unknown pid 21095
+2019-07-02 14:48:20,840 INFO reaped unknown pid 21098
+2019-07-02 14:48:20,862 INFO reaped unknown pid 21101
+2019-07-02 14:48:20,886 INFO reaped unknown pid 21104
+2019-07-02 14:48:20,901 INFO reaped unknown pid 21107
+2019-07-02 14:48:20,919 INFO reaped unknown pid 21110
+2019-07-02 14:48:20,947 INFO reaped unknown pid 21113
+2019-07-02 14:48:20,965 INFO reaped unknown pid 21116
+2019-07-02 14:48:20,975 INFO reaped unknown pid 21119
+2019-07-02 14:48:20,984 INFO reaped unknown pid 21122
+2019-07-02 14:48:20,995 INFO reaped unknown pid 21125
+2019-07-02 14:48:21,002 INFO reaped unknown pid 21128
+2019-07-02 14:48:21,011 INFO reaped unknown pid 21131
+2019-07-02 14:48:21,018 INFO reaped unknown pid 21134
+2019-07-02 14:48:21,026 INFO reaped unknown pid 21137
+2019-07-02 14:48:21,032 INFO reaped unknown pid 21140
+2019-07-02 14:48:21,040 INFO reaped unknown pid 21143
+2019-07-02 14:48:21,049 INFO reaped unknown pid 21146
+2019-07-02 14:48:21,056 INFO reaped unknown pid 21149
+2019-07-02 14:48:21,064 INFO reaped unknown pid 21152
+2019-07-02 14:48:21,072 INFO reaped unknown pid 21155
+2019-07-02 14:48:21,080 INFO reaped unknown pid 21158
+2019-07-02 14:48:21,086 INFO reaped unknown pid 21161
+2019-07-02 14:48:21,097 INFO reaped unknown pid 21164
+2019-07-02 14:48:21,105 INFO reaped unknown pid 21167
+2019-07-02 14:48:21,111 INFO reaped unknown pid 21170
+2019-07-02 14:48:21,118 INFO reaped unknown pid 21173
+2019-07-02 14:48:21,126 INFO reaped unknown pid 21176
+2019-07-02 14:48:21,132 INFO reaped unknown pid 21179
+2019-07-02 14:48:21,141 INFO reaped unknown pid 21182
+2019-07-02 14:48:21,146 INFO reaped unknown pid 21185
+2019-07-02 14:48:21,162 INFO reaped unknown pid 21188
+2019-07-02 14:48:21,170 INFO reaped unknown pid 21191
+2019-07-02 14:48:21,175 INFO reaped unknown pid 21194
+2019-07-02 14:48:21,182 INFO reaped unknown pid 21197
+2019-07-02 14:48:21,191 INFO reaped unknown pid 21200
+2019-07-02 14:48:21,196 INFO reaped unknown pid 21203
+2019-07-02 14:48:21,209 INFO reaped unknown pid 21206
+2019-07-02 14:48:21,209 INFO reaped unknown pid 21209
+2019-07-02 14:48:21,215 INFO reaped unknown pid 21212
+2019-07-02 14:48:21,223 INFO reaped unknown pid 21215
+2019-07-02 14:48:21,227 INFO reaped unknown pid 21218
+2019-07-02 14:48:21,233 INFO reaped unknown pid 21221
+2019-07-02 14:48:21,239 INFO reaped unknown pid 21224
+2019-07-02 14:48:21,246 INFO reaped unknown pid 21227
+2019-07-02 14:48:21,251 INFO reaped unknown pid 21230
+2019-07-02 14:48:21,257 INFO reaped unknown pid 21233
+2019-07-02 14:48:21,263 INFO reaped unknown pid 21236
+2019-07-02 14:48:21,268 INFO reaped unknown pid 21239
+2019-07-02 14:48:21,275 INFO reaped unknown pid 21242
+2019-07-02 14:48:21,280 INFO reaped unknown pid 21245
+2019-07-02 14:48:21,287 INFO reaped unknown pid 21248
+2019-07-02 14:48:21,292 INFO reaped unknown pid 21251
+2019-07-02 14:48:21,299 INFO reaped unknown pid 21254
+2019-07-02 14:48:21,306 INFO reaped unknown pid 21257
+2019-07-02 14:48:21,311 INFO reaped unknown pid 21260
+2019-07-02 14:48:21,315 INFO reaped unknown pid 21263
+2019-07-02 14:48:21,324 INFO reaped unknown pid 21266
+2019-07-02 14:48:21,327 INFO reaped unknown pid 21269
+2019-07-02 14:48:21,334 INFO reaped unknown pid 21272
+2019-07-02 14:48:21,341 INFO reaped unknown pid 21275
+2019-07-02 14:48:21,347 INFO reaped unknown pid 21278
+2019-07-02 14:48:21,384 INFO reaped unknown pid 21284
+2019-07-02 14:48:21,392 INFO reaped unknown pid 21287
+2019-07-02 14:48:21,392 INFO reaped unknown pid 21281
+2019-07-02 14:48:21,400 INFO reaped unknown pid 21290
+2019-07-02 14:48:21,409 INFO reaped unknown pid 21293
+2019-07-02 14:48:21,435 INFO reaped unknown pid 21296
+2019-07-02 14:48:21,461 INFO reaped unknown pid 21299
+2019-07-02 14:48:21,607 INFO reaped unknown pid 21302
+2019-07-02 14:48:21,607 INFO reaped unknown pid 21305
+2019-07-02 14:48:21,649 INFO reaped unknown pid 21308
+2019-07-02 14:48:21,650 INFO reaped unknown pid 21311
+2019-07-02 14:48:21,669 INFO reaped unknown pid 21314
+2019-07-02 14:48:21,675 INFO reaped unknown pid 21317
+2019-07-02 14:48:21,683 INFO reaped unknown pid 21320
+2019-07-02 14:48:21,692 INFO reaped unknown pid 21323
+2019-07-02 14:48:21,699 INFO reaped unknown pid 21326
+2019-07-02 14:48:21,705 INFO reaped unknown pid 21329
+2019-07-02 14:48:21,715 INFO reaped unknown pid 21332
+2019-07-02 14:48:21,724 INFO reaped unknown pid 21335
+2019-07-02 14:48:21,730 INFO reaped unknown pid 21338
+2019-07-02 14:48:21,736 INFO reaped unknown pid 21341
+2019-07-02 14:48:21,745 INFO reaped unknown pid 21344
+2019-07-02 14:48:21,754 INFO reaped unknown pid 21347
+2019-07-02 14:48:21,765 INFO reaped unknown pid 21350
+2019-07-02 14:48:21,766 INFO reaped unknown pid 21353
+2019-07-02 14:48:21,775 INFO reaped unknown pid 21356
+2019-07-02 14:48:21,781 INFO reaped unknown pid 21359
+2019-07-02 14:48:21,789 INFO reaped unknown pid 21362
+2019-07-02 14:48:21,794 INFO reaped unknown pid 21365
+2019-07-02 14:48:21,800 INFO reaped unknown pid 21368
+2019-07-02 14:48:21,805 INFO reaped unknown pid 21371
+2019-07-02 14:48:21,812 INFO reaped unknown pid 21374
+2019-07-02 14:48:21,816 INFO reaped unknown pid 21377
+2019-07-02 14:48:21,822 INFO reaped unknown pid 21380
+2019-07-02 14:48:21,829 INFO reaped unknown pid 21383
+2019-07-02 14:48:21,840 INFO reaped unknown pid 21386
+2019-07-02 14:48:21,845 INFO reaped unknown pid 21389
+2019-07-02 14:48:21,851 INFO reaped unknown pid 21392
+2019-07-02 14:48:21,856 INFO reaped unknown pid 21395
+2019-07-02 14:48:21,863 INFO reaped unknown pid 21398
+2019-07-02 14:48:21,869 INFO reaped unknown pid 21401
+2019-07-02 14:48:21,874 INFO reaped unknown pid 21404
+2019-07-02 14:48:21,882 INFO reaped unknown pid 21407
+2019-07-02 14:48:21,889 INFO reaped unknown pid 21410
+2019-07-02 14:48:21,894 INFO reaped unknown pid 21413
+2019-07-02 14:48:21,900 INFO reaped unknown pid 21416
+2019-07-02 14:48:21,918 INFO reaped unknown pid 21419
+2019-07-02 14:48:21,932 INFO reaped unknown pid 21422
+2019-07-02 14:48:21,950 INFO reaped unknown pid 21425
+2019-07-02 14:48:21,968 INFO reaped unknown pid 21428
+2019-07-02 14:48:21,984 INFO reaped unknown pid 21431
+2019-07-02 14:48:21,997 INFO reaped unknown pid 21434
+2019-07-02 14:48:22,010 INFO reaped unknown pid 21437
+2019-07-02 14:48:22,018 INFO reaped unknown pid 21440
+2019-07-02 14:48:22,026 INFO reaped unknown pid 21443
+2019-07-02 14:48:22,035 INFO reaped unknown pid 21446
+2019-07-02 14:48:22,045 INFO reaped unknown pid 21449
+2019-07-02 14:48:22,052 INFO reaped unknown pid 21452
+2019-07-02 14:48:22,058 INFO reaped unknown pid 21455
+2019-07-02 14:48:22,064 INFO reaped unknown pid 21458
+2019-07-02 14:48:22,069 INFO reaped unknown pid 21461
+2019-07-02 14:48:22,077 INFO reaped unknown pid 21464
+2019-07-02 14:48:22,082 INFO reaped unknown pid 21467
+2019-07-02 14:48:22,087 INFO reaped unknown pid 21470
+2019-07-02 14:48:22,092 INFO reaped unknown pid 21473
+2019-07-02 14:48:22,097 INFO reaped unknown pid 21476
+2019-07-02 14:48:22,102 INFO reaped unknown pid 21479
+2019-07-02 14:48:22,108 INFO reaped unknown pid 21482
+2019-07-02 14:48:22,114 INFO reaped unknown pid 21485
+2019-07-02 14:48:22,120 INFO reaped unknown pid 21488
+2019-07-02 14:48:22,134 INFO reaped unknown pid 21491
+2019-07-02 14:48:22,142 INFO reaped unknown pid 21494
+2019-07-02 14:48:22,150 INFO reaped unknown pid 21497
+2019-07-02 14:48:22,156 INFO reaped unknown pid 21500
+2019-07-02 14:48:22,166 INFO reaped unknown pid 21503
+2019-07-02 14:48:22,173 INFO reaped unknown pid 21506
+2019-07-02 14:48:22,183 INFO reaped unknown pid 21509
+2019-07-02 14:48:22,193 INFO reaped unknown pid 21512
+2019-07-02 14:48:22,203 INFO reaped unknown pid 21515
+2019-07-02 14:48:22,211 INFO reaped unknown pid 21518
+2019-07-02 14:48:22,217 INFO reaped unknown pid 21521
+2019-07-02 14:48:22,227 INFO reaped unknown pid 21524
+2019-07-02 14:48:22,235 INFO reaped unknown pid 21527
+2019-07-02 14:48:22,246 INFO reaped unknown pid 21530
+2019-07-02 14:48:22,251 INFO reaped unknown pid 21533
+2019-07-02 14:48:22,256 INFO reaped unknown pid 21536
+2019-07-02 14:48:22,267 INFO reaped unknown pid 21539
+2019-07-02 14:48:22,276 INFO reaped unknown pid 21542
+2019-07-02 14:48:22,284 INFO reaped unknown pid 21545
+2019-07-02 14:48:22,289 INFO reaped unknown pid 21548
+2019-07-02 14:48:22,301 INFO reaped unknown pid 21551
+2019-07-02 14:48:22,312 INFO reaped unknown pid 21554
+2019-07-02 14:48:22,314 INFO reaped unknown pid 21557
+2019-07-02 14:48:22,323 INFO reaped unknown pid 21560
+2019-07-02 14:48:22,331 INFO reaped unknown pid 21563
+2019-07-02 14:48:22,335 INFO reaped unknown pid 21566
+2019-07-02 14:48:22,343 INFO reaped unknown pid 21569
+2019-07-02 14:48:22,349 INFO reaped unknown pid 21572
+2019-07-02 14:48:22,357 INFO reaped unknown pid 21575
+2019-07-02 14:48:22,365 INFO reaped unknown pid 21578
+2019-07-02 14:48:22,371 INFO reaped unknown pid 21581
+2019-07-02 14:48:22,380 INFO reaped unknown pid 21584
+2019-07-02 14:48:22,384 INFO reaped unknown pid 21587
+2019-07-02 14:48:22,390 INFO reaped unknown pid 21590
+2019-07-02 14:48:22,394 INFO reaped unknown pid 21593
+2019-07-02 14:48:22,399 INFO reaped unknown pid 21596
+2019-07-02 14:48:22,405 INFO reaped unknown pid 21599
+2019-07-02 14:48:22,411 INFO reaped unknown pid 21602
+2019-07-02 14:48:22,416 INFO reaped unknown pid 21605
+2019-07-02 14:48:22,422 INFO reaped unknown pid 21608
+2019-07-02 14:48:22,429 INFO reaped unknown pid 21611
+2019-07-02 14:48:22,434 INFO reaped unknown pid 21614
+2019-07-27 06:07:50,765 CRIT Supervisor running as root (no user in config file)
+2019-07-27 06:07:50,765 INFO Included extra file "/etc/supervisor/conf.d/supervisord.conf" during parsing
+2019-07-27 06:07:50,808 INFO RPC interface 'supervisor' initialized
+2019-07-27 06:07:50,815 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2019-07-27 06:07:50,818 INFO supervisord started with pid 1
+2019-07-27 06:07:51,821 INFO spawned: 'varnishd' with pid 54
+2019-07-27 06:07:51,825 INFO spawned: 'php-fpm' with pid 55
+2019-07-27 06:07:51,828 INFO spawned: 'varnish-plugins-watcher' with pid 57
+2019-07-27 06:07:51,835 INFO spawned: 'nginx' with pid 58
+2019-07-27 06:07:51,868 INFO spawned: 'MailHog' with pid 59
+2019-07-27 06:07:51,876 INFO spawned: 'mysql' with pid 60
+2019-07-27 06:07:51,884 INFO spawned: 'varnish-themes-watcher' with pid 61
+2019-07-27 06:07:52,995 INFO success: varnishd entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-07-27 06:07:52,995 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-07-27 06:07:52,996 INFO success: varnish-plugins-watcher entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-07-27 06:07:52,996 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-07-27 06:07:52,996 INFO success: MailHog entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-07-27 06:07:52,996 INFO success: mysql entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-07-27 06:07:52,996 INFO success: varnish-themes-watcher entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
